@@ -4,7 +4,7 @@ This tool offers various utilities for Roblox.
 
 ## Launch Instructions 
 
-Download the latest [release](https://github.com/sdhEmily/RobloxPatcher/releases/tag/v)
+Download the latest release [here](https://github.com/sdhEmily/RobloxPatcher/releases/tag/v) 
 
 If the app is not functioning simply paste this into your terminal and when you run it it will download the latest version of RobloxPatcher.\
 You need [Python](https://www.python.org/downloads/) to run this.
